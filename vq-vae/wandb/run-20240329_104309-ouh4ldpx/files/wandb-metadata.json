@@ -1,0 +1,128 @@
+{
+    "os": "Linux-6.5.0-26-generic-x86_64-with-glibc2.17",
+    "python": "3.8.18",
+    "heartbeatAt": "2024-03-29T05:13:12.641131",
+    "startedAt": "2024-03-29T05:13:09.703804",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "train_avi.py",
+    "codePathLocal": "train_avi.py",
+    "codePath": "vq-vae/train_avi.py",
+    "git": {
+        "remote": "https://github.com/avi-jit/factorizer.git",
+        "commit": "f107c24eb81bdb68e8b61f2af9f1a8450f2aec3c"
+    },
+    "email": "shwetabhbiswas2305@gmail.com",
+    "root": "/home/harsh/AI-Projects/factorizer/avijit/factorizer",
+    "host": "harsh-Legion-5-Pro-16ACH6H",
+    "username": "harsh",
+    "executable": "/home/harsh/anaconda3/envs/factorizer/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 1894.619625,
+        "min": 400.0,
+        "max": 4463.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 2313.73,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 2418.637,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 2893.978,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 2894.557,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 2315.253,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 2310.932,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 2451.095,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 2314.553,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 2311.377,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 400.0,
+            "min": 400.0,
+            "max": 4463.0
+        },
+        {
+            "current": 2513.293,
+            "min": 400.0,
+            "max": 4463.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 182.2811393737793,
+            "used": 50.94466018676758
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 27.251632690429688
+    }
+}
